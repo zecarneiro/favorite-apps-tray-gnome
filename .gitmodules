@@ -1,0 +1,9 @@
+[submodule "vendor/utils"]
+	path = vendor/utils
+	url = https://github.com/zecarneiro/utils.git
+[submodule "vendor/gnome-shell-extension-tool"]
+	path = vendor/gnome-shell-extension-tool
+	url = https://github.com/zecarneiro/gnome-shell-extension-tool.git
+[submodule "vendor/transpile-javascript-gjs"]
+	path = vendor/transpile-javascript-gjs
+	url = https://github.com/zecarneiro/transpile-javascript-gjs.git

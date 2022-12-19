@@ -20,7 +20,7 @@ const Main = imports.ui.main;
 
 var _this: any;
 
-export class FavoritesApp extends PanelMenu.Button {
+export class Gnome extends PanelMenu.Button {
     private setText: any;
     private readonly jsonFileName = `${GLib.get_home_dir()}/${ENames.baseFileName}.json`;
     private allApplications: IAppInfo[];
