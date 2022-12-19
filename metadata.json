@@ -1,0 +1,10 @@
+{
+  "name": "Favorites Apps Indicator",
+  "description": "Your favorites commands and Apps Menu Indicator",
+  "uuid": "favorites-apps-indicator@zecarneiro.pt",
+  "url": "https://github.com/zecarneiro/favorites-apps-indicator",
+  "original-authors": "José M. C. Noronha",
+  "shell-version": [
+    "42"
+  ]
+}
